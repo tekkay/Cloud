@@ -1,0 +1,22 @@
+{
+  "name": "cloud",
+  "version": "1.0.0",
+  "description": "trabalinho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tekkay"
+  },
+  "author": "cueio",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.4.0",
+    "escape-html": "^1.0.3",
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
